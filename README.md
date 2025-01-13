@@ -3,9 +3,13 @@
 **COMPANY NAME** : Codtech IT Solutions PVT.LTD .
 
 **MY NAME**     : Vivek Sheshrao Sanap .
-**INTERN ID**    : CT08KQB .
+
+**INTERN ID**    : CT08KQB 
+
 **DOMAIN**       : FRONTEND WEB DEVELOPMENT .
+
 **BATCH DURATION**: 10 JAN 2025 TO 10 FEB 2025 .
+
 **MENTOR NAME**   : Neela Santhosh .
 
 # DESCRIPTION OF PROJECT :-
